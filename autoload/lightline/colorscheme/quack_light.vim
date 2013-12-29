@@ -46,4 +46,4 @@ let s:p.normal.warning = [ [ s:yellow, s:base01 ] ]
 let s:p.normal.error = [ [ s:base02, s:red ] ]
 let s:p.normal.warning = [ [ s:base2, s:yellow ] ]
 
-let g:lightline#colorscheme#solarized_light#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#quack_light#palette = lightline#colorscheme#flatten(s:p)
