@@ -1,7 +1,7 @@
 " =============================================================================
-" Filename: autoload/lightline/colorscheme/solarized_light.vim
+" Filename: autoload/lightline/colorscheme/quack_light.vim
 " Version: 0.0
-" Author: itchyny
+" Author: pearofducks
 " License: MIT License
 " Last Change: 2013/09/07 12:19:49.
 " =============================================================================
